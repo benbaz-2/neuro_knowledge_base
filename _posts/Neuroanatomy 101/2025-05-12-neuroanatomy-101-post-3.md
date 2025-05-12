@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diencephalon"
-date: 2025-05-12 08:44:38 -0400
+date: 2025-05-12 09:44:38 -0400
 category: subcategory-content-2
 author: joyce
 short-description: This Bricks covers the basics of diencephalon anatomy.
