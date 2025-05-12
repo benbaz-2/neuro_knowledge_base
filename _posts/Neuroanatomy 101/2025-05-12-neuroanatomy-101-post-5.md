@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "MRI Basics - T1"
-date: 2025-05-02 08:44:38 -0400
-category: subcategory-content-1
+title: "Basal Ganglia"
+date: 2025-05-12 08:44:38 -0400
+category: subcategory-content-2
 author: joyce
-short-description: This Bricks covers the basics of T1-weighted images.
+short-description: This Bricks covers the basics of basal ganglia anatomy.
 ---
 
 -----
