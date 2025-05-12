@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MRI Basics - T1"
+title: "Brainstem anatomy"
 date: 2025-05-12 08:44:38 -0400
 category: subcategory-content-2
 author: joyce
