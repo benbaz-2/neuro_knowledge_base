@@ -17,7 +17,7 @@ It is divided into three sections, rostral to caudal: the midbrain, the pons and
 
 Each section of the brainstem houses its own set of nuclei, tracts  and structures, and has its own signature look on cross-section, all of which serve as important landmarks on imaging.
 
-![Image]({{ site.baseurl }}/assets/brainstem1.jpg){: width="500" }
+![Image]({{ site.baseurl }}/assets/brainstem1.png){: width="500" }
 
 <!-- need to double enter to start new lines -->
 <!-- need to use the site baseurl in the curly brackets to make internal links work seamlessly -->
