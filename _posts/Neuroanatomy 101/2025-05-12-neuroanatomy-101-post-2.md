@@ -44,6 +44,20 @@ Each section of the brainstem houses its own set of nuclei, tracts  and structur
 |                                                                                       | Medial lemniscus (aka. Dorsal column)                 |
 |                                                                                       | *Sympathetic fibers*                                  |
 
+| Nuclei                                                                                | Tracts                                                |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------|
+|Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
+|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  | Spinal lemniscus (aka. spinothalamic tract)           |
+|                                                                                         Medial lemniscus (aka. Dorsal column)                 |
+|                                                                                         *Sympathetic fibers*                                  |
+
+| Nuclei                                                                                | Tracts                                                |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------|
+|Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
+|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  | Spinal lemniscus (aka. spinothalamic tract)           |
+                                                                                          Medial lemniscus (aka. Dorsal column)                 |
+                                                                                          *Sympathetic fibers*                                  |
+
 
 
 <!-- need to double enter to start new lines -->
