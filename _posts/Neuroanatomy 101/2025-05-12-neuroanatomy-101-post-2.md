@@ -23,20 +23,20 @@ Each section of the brainstem houses its own set of nuclei, tracts  and structur
 
 ## Rostral midbrain
 
-| Nuclei                   | Tracts                                             |
-|--------------------------|----------------------------------------------------|
-| Superior colliculus      | Corticospinal tract (forming the cerebral peduncles) |
-| Nucleus of CN3           | Spinal lemniscus (aka. spinothalamic tract)        |
-| Substantia nigra         | Medial lemniscus (aka. Dorsal column)              |
-| Edinger–Westphal nucleus | *Sympathetic fibers*                               |
+| Nuclei                            | Tracts                                             |
+|--------------------------         |----------------------------------------------------|
+| Superior colliculus               | Corticospinal tract (forming the cerebral peduncles) |
+| Nucleus of CN3                    | Spinal lemniscus (aka. spinothalamic tract)        |
+| Substantia nigra                  | Medial lemniscus (aka. Dorsal column)              |
+| Edinger–Westphal nucleus          | *Sympathetic fibers*                               |
 
 ## Caudal midbrain
 
 | Nuclei                                                                                | Tracts                                                |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------|
 |Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
-|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  |Spinal lemniscus (aka. spinothalamic tract)            |
-|                                                                                       |Medial lemniscus (aka. Dorsal column)                  |
+|Nuclei of CN4 - The only CN that exits dorsally and                                    |Spinal lemniscus (aka. spinothalamic tract)            |
+|crosses to the contralateral side                                                      |Medial lemniscus (aka. Dorsal column)                  |
 |                                                                                       |*Sympathetic fibers*                                   |
 
 ![Image]({{ site.baseurl }}/assets/brainstem2.png){: width="500" }
