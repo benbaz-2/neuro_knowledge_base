@@ -37,28 +37,5 @@ Each section of the brainstem houses its own set of nuclei, tracts  and structur
 |Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
 |Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  |<ul><li>Spinal lemniscus (aka. spinothalamic tract)</li><li>Medial lemniscus (aka. Dorsal column)</li><li>*Sympathetic fibers*</li></ul>|
 
-| Nuclei                                                                                | Tracts                                                |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------|
-|Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
-|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  | Spinal lemniscus (aka. spinothalamic tract)           |
-|                                                                                       | Medial lemniscus (aka. Dorsal column)                 |
-|                                                                                       | *Sympathetic fibers*                                  |
-
-| Nuclei                                                                                | Tracts                                                |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------|
-|Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
-|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  | Spinal lemniscus (aka. spinothalamic tract)           |
-|                                                                                         Medial lemniscus (aka. Dorsal column)                 |
-|                                                                                         *Sympathetic fibers*                                  |
-
-| Nuclei                                                                                | Tracts                                                |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------|
-|Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
-|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  | Spinal lemniscus (aka. spinothalamic tract)           |
-                                                                                          Medial lemniscus (aka. Dorsal column)                 |
-                                                                                          *Sympathetic fibers*                                  |
-
-
-
 <!-- need to double enter to start new lines -->
 <!-- need to use the site baseurl in the curly brackets to make internal links work seamlessly -->
