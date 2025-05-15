@@ -19,5 +19,25 @@ Each section of the brainstem houses its own set of nuclei, tracts  and structur
 
 ![Image]({{ site.baseurl }}/assets/brainstem1.png){: width="500" }
 
+# Midbrain
+
+## Rostral midbrain
+
+| Nuclei                   | Tracts                                             |
+|--------------------------|----------------------------------------------------|
+| Superior colliculus      | Corticospinal tract (forming the cerebral peduncles) |
+| Nucleus of CN3           | Spinal lemniscus (aka. spinothalamic tract)        |
+| Substantia nigra         | Medial lemniscus (aka. Dorsal column)              |
+| Edinger–Westphal nucleus | *Sympathetic fibers*                               |
+
+## Caudal midbrain
+
+| Nuclei                                                                                | Tracts                                                |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------|
+|Inferior Colliculus                                                                    | Corticospinal Tract (forming the cerebellar peduncles)|
+|Nuclei of CN4 - The only CN that exits dorsally and crosses to the contralateral side  |<ul><li>Spinal lemniscus (aka. spinothalamic tract)</li><li>Medial lemniscus (aka. Dorsal column)</li><li>*Sympathetic fibers*</li></ul>|
+
+
+
 <!-- need to double enter to start new lines -->
 <!-- need to use the site baseurl in the curly brackets to make internal links work seamlessly -->
