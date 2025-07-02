@@ -24,7 +24,7 @@ Each section of the brainstem houses its own set of nuclei, tracts  and structur
 ## Rostral midbrain
 
 | Nuclei                            | Tracts                                               |
-|:---        			    |:---                                                  |
+|:---        			    |                                                  ---:|
 | Superior colliculus               | Corticospinal tract (forming the cerebral peduncles) |
 | Nucleus of CN3                    | Spinal lemniscus (aka. spinothalamic tract)          |
 | Substantia nigra                  | Medial lemniscus (aka. Dorsal column)                |
@@ -34,6 +34,31 @@ Each section of the brainstem houses its own set of nuclei, tracts  and structur
 | :---        |    :----:   |
 | Header      | Title       | 
 | Paragraph   | Text        | 
+
+
+<table style="border: 1px solid black; border-collapse: collapse">
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header" style="border: 1px solid black; border-collapse: collapse">
+<th style="border: 1px solid black; border-collapse: collapse">Field</th>
+<th style="border: 1px solid black; border-collapse: collapse">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid black; border-collapse: collapse">First column **fields**</td>
+<td style="border: 1px solid black; border-collapse: collapse">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr style="border: 1px solid black; border-collapse: collapse">
+<td style="border: 1px solid black; border-collapse: collapse">Second column **fields**</td>
+<td style="border: 1px solid black; border-collapse: collapse">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Caudal midbrain
 
